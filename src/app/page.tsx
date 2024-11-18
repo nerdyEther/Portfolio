@@ -30,9 +30,7 @@ export default function Page() {
                 text={DATA.description}
               />
             </div>
-            <BlurFade delay={BLUR_FADE_DELAY}>
-              
-            </BlurFade>
+          
           </div>
         </div>
       </section>
